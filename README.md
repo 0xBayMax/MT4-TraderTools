@@ -20,6 +20,8 @@
 
 - `CoinWise_TraderTools.ex4`
 
+![CoinWise·TraderTools 面板截图](./ScreenShot.png)
+
 ## 二、适用范围
 
 本工具默认只处理：
@@ -423,4 +425,3 @@ MQL4/Experts/
 
 - `参数说明简表`
 - 或者 `新手快速上手版 1 页文档`
-
